@@ -1,0 +1,42 @@
+WCCCCCCCCCCCCCCCCCCCCCCCCCC       CCCCCCCCCCCCCCCCCC         CC       CCCCC    CCCCCCCCCCCCCCC CCCCCCCCCCCCCC    CCCCCCCC
+W   w  wwwwD                                    w  w         ww       w w w    w           w w w            w    w      W
+W   w  wwwD                                     w  w         ww   1   w w w    w           w w w            w    w      W
+W   w  wwD                                      w  w         ww======== w w    w           w w w            w    w      W
+W   w  wD                                       w  w    3 d  w=       w w w    w           w ===            w====w      W
+W   w  D                                        w  ===========        w = ======           w                === ==      W
+WDDDDDDD                     DD                 =                     =                    =       2                    W
+W[] A   !|                 DDDD           DDD      []              D    []                 []  DDDDDDDDDD             e W
+W{}BJh  :; DD  1          DDDDD    D    5DDDD      {}  6    d      D    {}           4   D {} DD  2   4 DD d  6    D  E W
+WFFFFFFFFFFFFFFFFFF  FFFFFFFFFF  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFW
+                   __          __                                           ______                                       
+////////////////////\\\\\\\\\\\\\\\\\\\\////////////////////\\\\\\\\\\\\\\\\\\\\////////////////////\\\\\\\\\\\\\\\\\\\\
+
+
+
+
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC CCCC  CCCC       CCCCCC CCCCC     CCCCCCW
+W                                                                             w w  w  w  w       w ww w w               W
+W                                                                             w w  w  w  ========= ww w w               W
+W                                                     D 4    D                w w  ====            == w w               W
+W                                                   =============             w w                     ===               W
+W                                                   D           D   DDD       ===        D   1   D                      W
+W                                 D         D       DD      [] DD   D D   D             DD=======DDD                    W
+W e     DDD          []           DD        D  D    DD   5  {} DDDDDD D   DD           DDD []    DDDD    []           x W
+W E     DDD     D   1{} D         DDD 5  D  D  D   FFFFFFFFFFFFFFFFFFFF   FFFFFFD  6  DDDD {}    DDDDD   {}        BJhs W
+WFFFF   DDD  FFFFFFFFFFFFFF       FFFFFFFF  D  DFFF                    FFF      FFFFFFFFFFFFFFFFFFFFFFFFFFFFF     FFFFFFW
+     ________              _______        _____                                                              _____       
+////////////////////\\\\\\\\\\\\\\\\\\\\////////////////////\\\\\\\\\\\\\\\\\\\\////////////////////\\\\\\\\\\\\\\\\\\\\
+
+WCCCCCCCCCCCCCCCCCCC   CCCCC   CCC   CCCCCCCCCCCCCCDCCCC         w CCCCCCCC CCCCC CCC CCCCCCC CCCCCCCCCCCCCCCCCC C CCCCCW
+W                  w   w   w   w w   w    DwwwwwwwwD    CC       CC     w w w   w w w w                          w      W
+W                  w   w   w   w w   w     DwwwwwwwD      CCCCCC w      w w w   w w w w                          w      W
+W                  =====   w   w =====      DwwwwwwD             w      w w w   w w w w                          w      W
+W                          w   w             DDDDDDD             w      w ===   w w w w                          w      W
+W              DD          =====                                == DDD  =       w w w w                          w      W
+W             DD                                            1      DDDD         w w ===                          w      W
+W x          DF                                 D         FFFFFF   DDDDD        ===                      4       =    e W
+W sBJh  d   FF                            5     D     d FF      FFFDDDDDD                   DD    5   FFFFF 1  d      E W
+WFFFFFFFFFFFF                        FFFFFFFFFFFF  FFFFF           FFFFFF                    DFFFFFFFF     FFFFF    FFFFW
+             ________________________            __                      ____________________                   ____    
+////////////////////\\\\\\\\\\\\\\\\\\\\////////////////////\\\\\\\\\\\\\\\\\\\\////////////////////\\\\\\\\\\\\\\\\\\\\
